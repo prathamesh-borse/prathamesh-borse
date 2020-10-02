@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /> </p>
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **Python**
+
+- 👯 I’m looking to collaborate on **Github**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viraldevpb](https://github.com/viraldevpb)
 
 - 💬 Ask me about **Java,Flutter and Development**
 
-- 📫 How to reach me **prathameshborse.official@gmail.com**
+- 📫 How to reach me: [Gmail - @prathameshborse.official](mailto:prathameshborse.official@gmail.com),[Twitter - @imPrathamesh07](https://twitter.com/imPrathamesh07)
 
 - ⚡ Fun fact **Coffee is Love**
 
