@@ -31,6 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraldevpb&layout=compact" alt="viraldevpb" /></p>
 
----
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&theme=radical" alt="viraldevpb" /></p>
