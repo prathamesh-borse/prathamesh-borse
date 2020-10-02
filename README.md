@@ -36,9 +36,6 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<details>
-  <summary>### :zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="viraldevpb" /></p>
-
-</details>
