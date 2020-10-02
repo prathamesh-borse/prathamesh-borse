@@ -1,9 +1,7 @@
 <h1 align="center">Hi there , I'm Prathamesh - aka [viraldevpb][website] 👋</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
-[website]: https://github.com/viraldevpb
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -38,3 +36,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="viraldevpb" /></p>
+
+[website]: https://github.com/viraldevpb
