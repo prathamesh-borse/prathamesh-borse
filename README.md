@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Prathamesh - aka [Viraldevpb][website] 👋</h1>
+<h1 align="center">Hi there , I'm Prathamesh - aka [viraldevpb][website] 👋</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
 [website]: https://github.com/viraldevpb
