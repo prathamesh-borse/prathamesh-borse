@@ -17,7 +17,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<a href="https://github.com/viraldevpb" target="blank">[<img align="center" alt="https://github.com/viraldevpb" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]</a>
 <a href="https://dev.to/https://dev.to/viraldevpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/viraldevpb" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/imprathamesh07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/imprathamesh07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-borse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prathamesh-borse/" height="30" width="40" /></a>
