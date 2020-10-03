@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I'm Prathamesh - aka Viraldevpb 👋</h1>
+<h1 align="center">Hi there , I'm Prathamesh - aka [Viraldevpb][website] 👋</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
@@ -17,6 +17,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://dev.to/https://dev.to/viraldevpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/viraldevpb" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/imprathamesh07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/imprathamesh07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-borse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prathamesh-borse/" height="30" width="40" /></a>
@@ -47,3 +48,5 @@
 ### :zap: GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="viraldevpb" /></p>
+
+[website]: https://github.com/viraldevpb
