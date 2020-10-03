@@ -8,6 +8,8 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
+- 🥅 2020 Goals: Contribute more to **Open Source projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/viraldevpb](https://github.com/viraldevpb)
 
 - 💬 Ask me about **Java,Flutter and Development**
