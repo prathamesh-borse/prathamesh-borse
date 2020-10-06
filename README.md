@@ -48,7 +48,6 @@
 
 ### :zap: GitHub Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraldevpb&layout=compact" alt="viraldevpb" />
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true" alt="viraldevpb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true" alt="viraldevpb" /></p>
 
 [website]: https://github.com/viraldevpb
