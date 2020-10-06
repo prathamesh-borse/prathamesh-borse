@@ -1,6 +1,7 @@
-### Hi there, I'm Prathamesh - aka [viraldevpb][website] 👋
-
+### Hi there, I'm Prathamesh - aka [viraldevpb][website]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### A passionate Software and Web developer from India
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
 
@@ -38,17 +39,17 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#165](https://github.com/seeditsolution/javaprogram/pull/165) in [seeditsolution/javaprogram](https://github.com/seeditsolution/javaprogram)
-2. 💪 Opened PR [#27](https://github.com/ishandeveloper/Coursify-hacktoberfest/pull/27) in [ishandeveloper/Coursify-hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
-3. 💪 Opened PR [#13](https://github.com/jdsteinbach/typetuner/pull/13) in [jdsteinbach/typetuner](https://github.com/jdsteinbach/typetuner)
-4. 💪 Opened PR [#9](https://github.com/HarshCasper/Hacktoberfest-Workshop-Amity/pull/9) in [HarshCasper/Hacktoberfest-Workshop-Amity](https://github.com/HarshCasper/Hacktoberfest-Workshop-Amity)
-5. 💪 Opened PR [#12](https://github.com/Que-knk/Project-Que/pull/12) in [Que-knk/Project-Que](https://github.com/Que-knk/Project-Que)
+1. 💪 Opened PR [#16](https://github.com/muchirijane/learning-code-through-github-repos/pull/16) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+2. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+3. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+4. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
+5. 💪 Opened PR [#165](https://github.com/seeditsolution/javaprogram/pull/165) in [seeditsolution/javaprogram](https://github.com/seeditsolution/javaprogram)
 <!--END_SECTION:activity-->
 
 ---
 
 ### :zap: GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="viraldevpb" /></p>
+<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /></p>
 
 [website]: https://github.com/viraldevpb
