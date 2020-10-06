@@ -37,11 +37,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-2. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-3. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
-4. 💪 Opened PR [#165](https://github.com/seeditsolution/javaprogram/pull/165) in [seeditsolution/javaprogram](https://github.com/seeditsolution/javaprogram)
-5. 💪 Opened PR [#27](https://github.com/ishandeveloper/Coursify-hacktoberfest/pull/27) in [ishandeveloper/Coursify-hacktoberfest](https://github.com/ishandeveloper/Coursify-hacktoberfest)
+1. 💪 Opened PR [#16](https://github.com/muchirijane/learning-code-through-github-repos/pull/16) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+2. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+3. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+4. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
+5. 💪 Opened PR [#165](https://github.com/seeditsolution/javaprogram/pull/165) in [seeditsolution/javaprogram](https://github.com/seeditsolution/javaprogram)
 <!--END_SECTION:activity-->
 
 ---
