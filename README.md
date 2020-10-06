@@ -1,5 +1,4 @@
-### Hi there, I'm Prathamesh - aka [viraldevpb][website] 👋
-
+### Hi there, I'm Prathamesh - aka [viraldevpb][website]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### A passionate Software and Web developer from India
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
