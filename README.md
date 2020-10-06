@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Coffee is Love**
 
-### Connect with me:
+### Connect with me: <img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">
 
 [<img align="center" alt="https://github.com/viraldevpb" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://dev.to/viraldevpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/viraldevpb" height="30" width="40" /></a>
