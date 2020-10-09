@@ -3,7 +3,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb&color=dc143c" alt="viraldevpb" /></p>
 
 - 🌱 I’m currently learning **Python**
 
