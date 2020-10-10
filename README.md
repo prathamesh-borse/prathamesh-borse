@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb" alt="viraldevpb" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb&color=dc143c" alt="viraldevpb" /></p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Coffee is Love**
 
-### Connect with me:
+### Connect with me: <img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">
 
 [<img align="center" alt="https://github.com/viraldevpb" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://dev.to/viraldevpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/viraldevpb" height="30" width="40" /></a>
@@ -40,17 +40,17 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#16](https://github.com/muchirijane/learning-code-through-github-repos/pull/16) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-2. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-3. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-4. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
-5. 💪 Opened PR [#165](https://github.com/seeditsolution/javaprogram/pull/165) in [seeditsolution/javaprogram](https://github.com/seeditsolution/javaprogram)
+1. 💪 Opened PR [#2310](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/2310) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
+2. 💪 Opened PR [#16](https://github.com/muchirijane/learning-code-through-github-repos/pull/16) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
+3. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+4. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
+5. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
 <!--END_SECTION:activity-->
 
 ---
 
 ### :zap: GitHub Stats
 
-<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" /></p>
+<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
 
 [website]: https://github.com/viraldevpb
