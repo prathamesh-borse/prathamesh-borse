@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2310](https://github.com/OpenSouceCode/Hacktoberfest2020/pull/2310) in [OpenSouceCode/Hacktoberfest2020](https://github.com/OpenSouceCode/Hacktoberfest2020)
-2. 💪 Opened PR [#16](https://github.com/muchirijane/learning-code-through-github-repos/pull/16) in [muchirijane/learning-code-through-github-repos](https://github.com/muchirijane/learning-code-through-github-repos)
-3. 🗣 Commented on [#25](https://github.com/vichitr/HacktoberfestForBeginners/issues/25) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-4. 🗣 Commented on [#26](https://github.com/vichitr/HacktoberfestForBeginners/issues/26) in [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-5. 💪 Opened PR [#5](https://github.com/DSC-SITRC/Quotes/pull/5) in [DSC-SITRC/Quotes](https://github.com/DSC-SITRC/Quotes)
+1. 🗣 Commented on [#50](https://github.com/Xjarlie/tv-recommend/issues/50) in [Xjarlie/tv-recommend](https://github.com/Xjarlie/tv-recommend)
+2. 🗣 Commented on [#106](https://github.com/NaturalIntelligence/imglab/issues/106) in [NaturalIntelligence/imglab](https://github.com/NaturalIntelligence/imglab)
+3. 🗣 Commented on [#15](https://github.com/aligg/Code-Newbie-Tweets/issues/15) in [aligg/Code-Newbie-Tweets](https://github.com/aligg/Code-Newbie-Tweets)
+4. 🗣 Commented on [#1](https://github.com/ideepika/dev_community/issues/1) in [ideepika/dev_community](https://github.com/ideepika/dev_community)
+5. 🗣 Commented on [#21](https://github.com/tapaswenipathak/GitGIFs/issues/21) in [tapaswenipathak/GitGIFs](https://github.com/tapaswenipathak/GitGIFs)
 <!--END_SECTION:activity-->
 
 ---
