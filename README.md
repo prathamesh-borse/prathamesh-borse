@@ -42,9 +42,9 @@
 
 1. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
 2. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
-3. 🗣 Commented on [#50](https://github.com/Xjarlie/tv-recommend/issues/50) in [Xjarlie/tv-recommend](https://github.com/Xjarlie/tv-recommend)
+3. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
 4. 🗣 Commented on [#50](https://github.com/Xjarlie/tv-recommend/issues/50) in [Xjarlie/tv-recommend](https://github.com/Xjarlie/tv-recommend)
-5. 🗣 Commented on [#106](https://github.com/NaturalIntelligence/imglab/issues/106) in [NaturalIntelligence/imglab](https://github.com/NaturalIntelligence/imglab)
+5. 🗣 Commented on [#50](https://github.com/Xjarlie/tv-recommend/issues/50) in [Xjarlie/tv-recommend](https://github.com/Xjarlie/tv-recommend)
 <!--END_SECTION:activity-->
 
 ---
