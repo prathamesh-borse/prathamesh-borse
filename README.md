@@ -1,4 +1,4 @@
-### Hi there, I'm Prathamesh - aka [viraldevpb][website]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Prathamesh - aka [viraldevpb][website2]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### A passionate Software and Web developer from India
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb&color=dc143c" alt="viraldevpb" /></p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Github**
 
@@ -22,7 +22,7 @@
 
 ### Connect with me: <img src="https://github.com/viraldevpb/viraldevpb/blob/master/Assets/Handshake.gif" height="35px">
 
-[<img align="center" alt="https://github.com/viraldevpb" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="https://viraldevpb.github.io/Portfolio/" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://dev.to/viraldevpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/viraldevpb" height="30" width="40" /></a>
 <a href="https://twitter.com/imprathamesh07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/imprathamesh07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prathamesh-borse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prathamesh-borse/" height="30" width="40" /></a>
@@ -53,4 +53,5 @@
 
 <p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
 
-[website]: https://github.com/viraldevpb
+[website]: https://viraldevpb.github.io/Portfolio/
+[website2]: https://github.com/viraldevpb
