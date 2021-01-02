@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#14](https://github.com/sidanand67/Tribute-Page/pull/14) in [sidanand67/Tribute-Page](https://github.com/sidanand67/Tribute-Page)
-2. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
+1. 🗣 Commented on [#2](https://github.com/RittikSoni/webteam/issues/2) in [RittikSoni/webteam](https://github.com/RittikSoni/webteam)
+2. 💪 Opened PR [#14](https://github.com/sidanand67/Tribute-Page/pull/14) in [sidanand67/Tribute-Page](https://github.com/sidanand67/Tribute-Page)
 3. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
 4. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
-5. 🗣 Commented on [#50](https://github.com/Xjarlie/tv-recommend/issues/50) in [Xjarlie/tv-recommend](https://github.com/Xjarlie/tv-recommend)
+5. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
 <!--END_SECTION:activity-->
 
 ---
