@@ -10,11 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 🥅 2020 Goals: Contribute more to **Open Source projects**
+- 🥅 2021 Goals: Contribute more to **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/viraldevpb](https://github.com/viraldevpb)
 
-- 💬 Ask me about **Java,Flutter and Development**
+- 💬 Ask me about **Java and Development**
 
 - 📫 How to reach me: [Gmail - @prathameshborse.official](mailto:prathameshborse.official@gmail.com), [Twitter - @imPrathamesh07](https://twitter.com/imPrathamesh07)
 
