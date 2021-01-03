@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#726](https://github.com/Syknapse/Contribute-To-This-Project/pull/726) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
-2. 🗣 Commented on [#2](https://github.com/RittikSoni/webteam/issues/2) in [RittikSoni/webteam](https://github.com/RittikSoni/webteam)
-3. 💪 Opened PR [#14](https://github.com/sidanand67/Tribute-Page/pull/14) in [sidanand67/Tribute-Page](https://github.com/sidanand67/Tribute-Page)
-4. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
-5. 🗣 Commented on [#337](https://github.com/vinitshahdeo/Water-Monitoring-System/issues/337) in [vinitshahdeo/Water-Monitoring-System](https://github.com/vinitshahdeo/Water-Monitoring-System)
+1. ❌ Closed PR [#1012](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1012) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+2. 💪 Opened PR [#1012](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1012) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+3. ❌ Closed PR [#1011](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1011) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+4. 💪 Opened PR [#1011](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1011) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
+5. 💪 Opened PR [#726](https://github.com/Syknapse/Contribute-To-This-Project/pull/726) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
 <!--END_SECTION:activity-->
 
 ---
