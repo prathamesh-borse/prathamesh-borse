@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1012](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1012) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-2. 💪 Opened PR [#1012](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1012) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-3. ❌ Closed PR [#1011](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1011) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-4. 💪 Opened PR [#1011](https://github.com/OpenSourceTogether/Hacktoberfest-2020/pull/1011) in [OpenSourceTogether/Hacktoberfest-2020](https://github.com/OpenSourceTogether/Hacktoberfest-2020)
-5. 💪 Opened PR [#726](https://github.com/Syknapse/Contribute-To-This-Project/pull/726) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+1. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
+2. 🗣 Commented on [#61](https://github.com/abhilashk433/Hacktoberfest-2018/issues/61) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
+3. 💪 Opened PR [#801](https://github.com/abhilashk433/Hacktoberfest-2018/pull/801) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
+4. 🗣 Commented on [#11](https://github.com/divayg/First_Contribution/issues/11) in [divayg/First_Contribution](https://github.com/divayg/First_Contribution)
+5. 🗣 Commented on [#1016](https://github.com/ember-learn/guides-source/issues/1016) in [ember-learn/guides-source](https://github.com/ember-learn/guides-source)
 <!--END_SECTION:activity-->
 
 ---
