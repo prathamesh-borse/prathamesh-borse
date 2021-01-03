@@ -2,7 +2,7 @@
 
 ### A passionate Software and Web developer from India
 
-<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="230">
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraldevpb&color=dc143c" alt="viraldevpb" /></p>
 
