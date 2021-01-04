@@ -61,10 +61,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
-2. 🗣 Commented on [#61](https://github.com/abhilashk433/Hacktoberfest-2018/issues/61) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
-3. 💪 Opened PR [#801](https://github.com/abhilashk433/Hacktoberfest-2018/pull/801) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
-4. 🗣 Commented on [#11](https://github.com/divayg/First_Contribution/issues/11) in [divayg/First_Contribution](https://github.com/divayg/First_Contribution)
-5. 🗣 Commented on [#1016](https://github.com/ember-learn/guides-source/issues/1016) in [ember-learn/guides-source](https://github.com/ember-learn/guides-source)
+2. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
+3. 🗣 Commented on [#61](https://github.com/abhilashk433/Hacktoberfest-2018/issues/61) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
+4. 💪 Opened PR [#801](https://github.com/abhilashk433/Hacktoberfest-2018/pull/801) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
+5. 🗣 Commented on [#11](https://github.com/divayg/First_Contribution/issues/11) in [divayg/First_Contribution](https://github.com/divayg/First_Contribution)
 <!--END_SECTION:activity-->
 
 ---
