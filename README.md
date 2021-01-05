@@ -60,11 +60,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
+1. 💪 Opened PR [#257](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20/pull/257) in [NJACKWinterOfCode/Get-Started-NWoC20](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20)
 2. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
-3. 🗣 Commented on [#61](https://github.com/abhilashk433/Hacktoberfest-2018/issues/61) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
-4. 💪 Opened PR [#801](https://github.com/abhilashk433/Hacktoberfest-2018/pull/801) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
-5. 🗣 Commented on [#11](https://github.com/divayg/First_Contribution/issues/11) in [divayg/First_Contribution](https://github.com/divayg/First_Contribution)
+3. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
+4. 🗣 Commented on [#61](https://github.com/abhilashk433/Hacktoberfest-2018/issues/61) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
+5. 💪 Opened PR [#801](https://github.com/abhilashk433/Hacktoberfest-2018/pull/801) in [abhilashk433/Hacktoberfest-2018](https://github.com/abhilashk433/Hacktoberfest-2018)
 <!--END_SECTION:activity-->
 
 ---
