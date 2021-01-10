@@ -1,6 +1,6 @@
-### Hi there, I'm Prathamesh - aka [viraldevpb][website2]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi there, I'm Prathamesh - aka viraldevpb<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-### A passionate Software and Web developer from India
+<h3 align="center">A passionate Software and Web developer from India</h3>
 
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 
@@ -77,4 +77,3 @@
 </details>
 
 [website]: https://viraldevpb.github.io/Portfolio/
-[website2]: https://github.com/viraldevpb
