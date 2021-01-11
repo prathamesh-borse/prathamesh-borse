@@ -68,9 +68,9 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#666](https://github.com/EddieJaoudeCommunity/support/issues/666) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 💪 Opened PR [#650](https://github.com/subeshb1/developer-community-stats/pull/650) in [subeshb1/developer-community-stats](https://github.com/subeshb1/developer-community-stats)
-3. 💪 Opened PR [#257](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20/pull/257) in [NJACKWinterOfCode/Get-Started-NWoC20](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20)
-4. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
+2. 🗣 Commented on [#666](https://github.com/EddieJaoudeCommunity/support/issues/666) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 💪 Opened PR [#650](https://github.com/subeshb1/developer-community-stats/pull/650) in [subeshb1/developer-community-stats](https://github.com/subeshb1/developer-community-stats)
+4. 💪 Opened PR [#257](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20/pull/257) in [NJACKWinterOfCode/Get-Started-NWoC20](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20)
 5. 🗣 Commented on [#8](https://github.com/freeCodeCampSF/FCCSF/issues/8) in [freeCodeCampSF/FCCSF](https://github.com/freeCodeCampSF/FCCSF)
 <!--END_SECTION:activity-->
 
