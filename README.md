@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#234](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/234) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. ❌ Closed PR [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#232](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/232) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 💪 Opened PR [#257](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/257) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+1. 🗣 Commented on [#234](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/234) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#257](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/257) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+3. 💪 Opened PR [#234](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/234) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. ❌ Closed PR [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
 ---
