@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#666](https://github.com/EddieJaoudeCommunity/support/issues/666) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-3. 🗣 Commented on [#234](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/234) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#257](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/issues/257) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
-5. 💪 Opened PR [#234](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/234) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#177](https://github.com/publiccodenet/standard/issues/177) in [publiccodenet/standard](https://github.com/publiccodenet/standard)
+2. 🗣 Commented on [#2](https://github.com/CharlesHudsonTS/CH_Automation/issues/2) in [CharlesHudsonTS/CH_Automation](https://github.com/CharlesHudsonTS/CH_Automation)
+3. 🗣 Commented on [#22](https://github.com/indiehd/docs/issues/22) in [indiehd/docs](https://github.com/indiehd/docs)
+4. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#666](https://github.com/EddieJaoudeCommunity/support/issues/666) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
