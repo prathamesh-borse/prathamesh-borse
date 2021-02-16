@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#60](https://github.com/mohitrakhade20/javascript-jokes/issues/60) in [mohitrakhade20/javascript-jokes](https://github.com/mohitrakhade20/javascript-jokes)
-2. 🗣 Commented on [#177](https://github.com/publiccodenet/standard/issues/177) in [publiccodenet/standard](https://github.com/publiccodenet/standard)
-3. 🗣 Commented on [#2](https://github.com/CharlesHudsonTS/CH_Automation/issues/2) in [CharlesHudsonTS/CH_Automation](https://github.com/CharlesHudsonTS/CH_Automation)
-4. 🗣 Commented on [#22](https://github.com/indiehd/docs/issues/22) in [indiehd/docs](https://github.com/indiehd/docs)
-5. 🗣 Commented on [#233](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/233) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+1. ❗️ Opened issue [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
+2. 🗣 Commented on [#60](https://github.com/mohitrakhade20/javascript-jokes/issues/60) in [mohitrakhade20/javascript-jokes](https://github.com/mohitrakhade20/javascript-jokes)
+3. 🗣 Commented on [#177](https://github.com/publiccodenet/standard/issues/177) in [publiccodenet/standard](https://github.com/publiccodenet/standard)
+4. 🗣 Commented on [#2](https://github.com/CharlesHudsonTS/CH_Automation/issues/2) in [CharlesHudsonTS/CH_Automation](https://github.com/CharlesHudsonTS/CH_Automation)
+5. 🗣 Commented on [#22](https://github.com/indiehd/docs/issues/22) in [indiehd/docs](https://github.com/indiehd/docs)
 <!--END_SECTION:activity-->
 
 ---
