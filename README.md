@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
-2. 🗣 Commented on [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
-3. ❗️ Opened issue [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
-4. 🗣 Commented on [#60](https://github.com/mohitrakhade20/javascript-jokes/issues/60) in [mohitrakhade20/javascript-jokes](https://github.com/mohitrakhade20/javascript-jokes)
-5. 🗣 Commented on [#177](https://github.com/publiccodenet/standard/issues/177) in [publiccodenet/standard](https://github.com/publiccodenet/standard)
+1. 🎉 Merged PR [#2](https://github.com/viraldevpb/hello-github-actions/pull/2) in [viraldevpb/hello-github-actions](https://github.com/viraldevpb/hello-github-actions)
+2. 💪 Opened PR [#2](https://github.com/viraldevpb/hello-github-actions/pull/2) in [viraldevpb/hello-github-actions](https://github.com/viraldevpb/hello-github-actions)
+3. ❗️ Closed issue [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
+4. 🗣 Commented on [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
+5. ❗️ Opened issue [#25](https://github.com/Bash-Woman-Community/Support/issues/25) in [Bash-Woman-Community/Support](https://github.com/Bash-Woman-Community/Support)
 <!--END_SECTION:activity-->
 
 ---
