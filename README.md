@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-2. ❗️ Opened issue [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-3. ❗️ Closed issue [#84](https://github.com/chiraag-kakar/sharenlearn/issues/84) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-4. ❗️ Opened issue [#84](https://github.com/chiraag-kakar/sharenlearn/issues/84) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-5. 🗣 Commented on [#443](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/443) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+1. 🗣 Commented on [#67](https://github.com/chiraag-kakar/sharenlearn/issues/67) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+2. 🗣 Commented on [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+3. ❗️ Opened issue [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+4. ❗️ Closed issue [#84](https://github.com/chiraag-kakar/sharenlearn/issues/84) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+5. ❗️ Opened issue [#84](https://github.com/chiraag-kakar/sharenlearn/issues/84) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
 <!--END_SECTION:activity-->
 
 ---
