@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#67](https://github.com/chiraag-kakar/sharenlearn/issues/67) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-2. 🗣 Commented on [#67](https://github.com/chiraag-kakar/sharenlearn/issues/67) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-3. 🗣 Commented on [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-4. ❗️ Opened issue [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-5. ❗️ Closed issue [#84](https://github.com/chiraag-kakar/sharenlearn/issues/84) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+1. 🗣 Commented on [#92](https://github.com/chiraag-kakar/sharenlearn/issues/92) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+2. 💪 Opened PR [#104](https://github.com/chiraag-kakar/sharenlearn/pull/104) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+3. 🗣 Commented on [#67](https://github.com/chiraag-kakar/sharenlearn/issues/67) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+4. 🗣 Commented on [#67](https://github.com/chiraag-kakar/sharenlearn/issues/67) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+5. 🗣 Commented on [#85](https://github.com/chiraag-kakar/sharenlearn/issues/85) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
 <!--END_SECTION:activity-->
 
 ---
