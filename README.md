@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#648](https://github.com/avinashkranjan/Amazing-Python-Scripts/pull/648) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-2. 🗣 Commented on [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+1. 🗣 Commented on [#104](https://github.com/chiraag-kakar/sharenlearn/issues/104) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+2. 💪 Opened PR [#648](https://github.com/avinashkranjan/Amazing-Python-Scripts/pull/648) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 3. 🗣 Commented on [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-4. ❗️ Opened issue [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-5. 🗣 Commented on [#104](https://github.com/chiraag-kakar/sharenlearn/issues/104) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
+4. 🗣 Commented on [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+5. ❗️ Opened issue [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 <!--END_SECTION:activity-->
 
 ---
