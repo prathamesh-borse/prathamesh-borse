@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#124](https://github.com/chiraag-kakar/sharenlearn/pull/124) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-2. ❌ Closed PR [#104](https://github.com/chiraag-kakar/sharenlearn/pull/104) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-3. 🗣 Commented on [#104](https://github.com/chiraag-kakar/sharenlearn/issues/104) in [chiraag-kakar/sharenlearn](https://github.com/chiraag-kakar/sharenlearn)
-4. 💪 Opened PR [#648](https://github.com/avinashkranjan/Amazing-Python-Scripts/pull/648) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-5. 🗣 Commented on [#627](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/627) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+1. 🎉 Merged PR [#1](https://github.com/viraldevpb/InfoTQ-Java/pull/1) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
+2. 🎉 Merged PR [#2](https://github.com/viraldevpb/InfoTQ-Java/pull/2) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
+3. 💪 Opened PR [#2](https://github.com/viraldevpb/InfoTQ-Java/pull/2) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
+4. 💪 Opened PR [#1](https://github.com/viraldevpb/InfoTQ-Java/pull/1) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
+5. 🗣 Commented on [#23](https://github.com/CrewMates-Open-Source/EduHelp/issues/23) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
 <!--END_SECTION:activity-->
 
 ---
