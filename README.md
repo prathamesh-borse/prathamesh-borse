@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/viraldevpb/InfoTQ-Java/pull/1) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
-2. 🎉 Merged PR [#2](https://github.com/viraldevpb/InfoTQ-Java/pull/2) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
-3. 💪 Opened PR [#2](https://github.com/viraldevpb/InfoTQ-Java/pull/2) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
-4. 💪 Opened PR [#1](https://github.com/viraldevpb/InfoTQ-Java/pull/1) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
-5. 🗣 Commented on [#23](https://github.com/CrewMates-Open-Source/EduHelp/issues/23) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+1. ❗️ Opened issue [#198](https://github.com/C0D1NG/C0D1NG/issues/198) in [C0D1NG/C0D1NG](https://github.com/C0D1NG/C0D1NG)
+2. ❗️ Closed issue [#1](https://github.com/viraldevpb/InfyTQ-Java/issues/1) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
+3. ❗️ Opened issue [#1](https://github.com/viraldevpb/InfyTQ-Java/issues/1) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
+4. 🎉 Merged PR [#1](https://github.com/viraldevpb/InfoTQ-Java/pull/1) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
+5. 🎉 Merged PR [#2](https://github.com/viraldevpb/InfoTQ-Java/pull/2) in [viraldevpb/InfoTQ-Java](https://github.com/viraldevpb/InfoTQ-Java)
 <!--END_SECTION:activity-->
 
 ---
