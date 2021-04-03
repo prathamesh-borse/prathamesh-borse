@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/viraldevpb/InfyTQ-Java/pull/2) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
-2. 💪 Opened PR [#2](https://github.com/viraldevpb/InfyTQ-Java/pull/2) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
-3. ❗️ Opened issue [#198](https://github.com/C0D1NG/C0D1NG/issues/198) in [C0D1NG/C0D1NG](https://github.com/C0D1NG/C0D1NG)
-4. ❗️ Closed issue [#1](https://github.com/viraldevpb/InfyTQ-Java/issues/1) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
-5. ❗️ Opened issue [#1](https://github.com/viraldevpb/InfyTQ-Java/issues/1) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
+1. ❗️ Opened issue [#36](https://github.com/salil-naik/css-art-gallery/issues/36) in [salil-naik/css-art-gallery](https://github.com/salil-naik/css-art-gallery)
+2. 🎉 Merged PR [#2](https://github.com/viraldevpb/InfyTQ-Java/pull/2) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
+3. 💪 Opened PR [#2](https://github.com/viraldevpb/InfyTQ-Java/pull/2) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
+4. ❗️ Opened issue [#198](https://github.com/C0D1NG/C0D1NG/issues/198) in [C0D1NG/C0D1NG](https://github.com/C0D1NG/C0D1NG)
+5. ❗️ Closed issue [#1](https://github.com/viraldevpb/InfyTQ-Java/issues/1) in [viraldevpb/InfyTQ-Java](https://github.com/viraldevpb/InfyTQ-Java)
 <!--END_SECTION:activity-->
 
 ---
