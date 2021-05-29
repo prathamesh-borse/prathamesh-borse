@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
+1. ❗️ Opened issue [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 2. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-3. ❗️ Opened issue [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-4. ❌ Closed PR [#9969](https://github.com/education/GitHubGraduation-2021/pull/9969) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
-5. 💪 Opened PR [#9969](https://github.com/education/GitHubGraduation-2021/pull/9969) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+3. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
+4. ❗️ Opened issue [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
+5. ❌ Closed PR [#9969](https://github.com/education/GitHubGraduation-2021/pull/9969) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
 <!--END_SECTION:activity-->
 
 ---
