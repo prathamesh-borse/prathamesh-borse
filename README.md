@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-2. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-3. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-4. ❗️ Opened issue [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-5. ❌ Closed PR [#9969](https://github.com/education/GitHubGraduation-2021/pull/9969) in [education/GitHubGraduation-2021](https://github.com/education/GitHubGraduation-2021)
+1. 🗣 Commented on [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+2. 💪 Opened PR [#1147](https://github.com/avinashkranjan/Amazing-Python-Scripts/pull/1147) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+3. ❗️ Opened issue [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+4. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
+5. 🗣 Commented on [#1593](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1593) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
 <!--END_SECTION:activity-->
 
 ---
