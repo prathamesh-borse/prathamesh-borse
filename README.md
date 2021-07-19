@@ -23,16 +23,16 @@
 
 - 💬 Ask me about **Java and Development**
 
-- 📫 How to reach me: [Gmail - @prathameshborse.official](mailto:prathameshborse.official@gmail.com), [Twitter - @imPrathamesh07](https://twitter.com/imPrathamesh07)
+- 📫 How to reach me: [Gmail - @prathameshborse.official](mailto:prathameshborse.official@gmail.com), [Twitter - @Dev_Prathamtwt](https://twitter.com/Dev_Prathamtwt)
 
 - ⚡ Fun fact **Coffee is Love**
 
 ### Connect with me:
 
 [<img align="center" alt="https://viraldevpb.github.io/Portfolio/" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<a href="https://twitter.com/imprathamesh07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/imprathamesh07" height="30" width="40" /></a>
+<a href="https://twitter.com/Dev_Prathamtwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/Dev_Prathamtwt" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prathamesh-borse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prathamesh-borse/" height="30" width="40" /></a>
-<a href="https://instagram.com/prathamesh_borse_pb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathamesh_borse_pb" height="30" width="40" /></a>
+<a href="https://instagram.com/prathamesh-borse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathamesh_borse_pb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prathameshborse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/prathameshborse" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,7 +79,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=viraldevpb&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
+<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=prathamesh-borse&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
 
 </details>
 
