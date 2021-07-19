@@ -5,7 +5,7 @@
 
 <p align="center">
  
-<h1 align="center">Hi there, I'm Prathamesh - aka viraldevpb<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Prathamesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
