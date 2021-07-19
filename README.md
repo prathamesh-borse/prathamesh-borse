@@ -67,11 +67,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
-2. ❗️ Opened issue [#42](https://github.com/DSCBITDurg/support/issues/42) in [DSCBITDurg/support](https://github.com/DSCBITDurg/support)
-3. ❗️ Opened issue [#5](https://github.com/CodeTrophs/450DSA/issues/5) in [CodeTrophs/450DSA](https://github.com/CodeTrophs/450DSA)
-4. 🗣 Commented on [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
-5. 💪 Opened PR [#1147](https://github.com/avinashkranjan/Amazing-Python-Scripts/pull/1147) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
+1. 💪 Opened PR [#72](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies/pull/72) in [AWS-User-Group-Jaipur-Rajasthan/HallOfTechies](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies)
+2. ❗️ Opened issue [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
+3. ❗️ Opened issue [#42](https://github.com/DSCBITDurg/support/issues/42) in [DSCBITDurg/support](https://github.com/DSCBITDurg/support)
+4. ❗️ Opened issue [#5](https://github.com/CodeTrophs/450DSA/issues/5) in [CodeTrophs/450DSA](https://github.com/CodeTrophs/450DSA)
+5. 🗣 Commented on [#1143](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues/1143) in [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts)
 <!--END_SECTION:activity-->
 
 ---
