@@ -32,7 +32,7 @@
 [<img align="center" alt="https://viraldevpb.github.io/Portfolio/" width="40" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <a href="https://twitter.com/Dev_Prathamtwt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/Dev_Prathamtwt" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prathamesh-borse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prathamesh-borse/" height="30" width="40" /></a>
-<a href="https://instagram.com/prathamesh-borse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathamesh_borse_pb" height="30" width="40" /></a>
+<a href="https://instagram.com/Dev_Prathamig" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prathamesh_borse_pb" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prathameshborse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/prathameshborse" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
