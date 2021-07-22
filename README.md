@@ -19,6 +19,14 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology. </br>
 👨‍💻  I am passionate about Web Dev, Android Development, Machine Learning & I enjoy learning new things. </br>
 
+### Volunteer experience
+- [Google Crowdsource Contributor]() - A Google Crowdsource Contributor are the individuals who work on various tasks in which you can contribute are translation, translation validation, maps translation validation, handwriting recognition, sentiment evaluation, landmarks, and image transcription. 
+- [Google Local Guides Contributor](https://www.google.com/maps/contrib/105412558492020731472/reviews/@20.0121819,73.5511349,8z/data=!3m1!4b1!4m3!8m2!3m1!1e1) - A Google Local Guide Contributor work on areas like Score a place with ratings, describe your experience with reviews, share photographs and videos, provide insights with answers, respond to questions about a place, update information with place edits, add missing places, or verify the information by checking facts.
+
+### Honors & Awards 🏅
+- Received Scholarship for the [AWS Machine learning Scholarship Program](https://www.udacity.com/course/aws-machine-learning-foundations--ud090) The foundations course is intended to help developers of all skill levels get started with machine learning..
+- Completed Google Cloud Facilitator Program [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/e7000573-80c9-41e4-894a-33ece4b5128b) with 16 Quests and 11 Skill Badge.
+
 ---
 
 ### :zap: Recent Github Activity
