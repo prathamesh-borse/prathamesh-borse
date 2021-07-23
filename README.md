@@ -19,7 +19,7 @@
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology. </br>
 👨‍💻  I am passionate about Web Dev, Android Development, Machine Learning & I enjoy learning new things. </br>
 
-## Work 💻
+### Work 💻
 - 🌱 I’m currently working to get better at **Competitive Programming** and **Web Developement**.
   - 5 :star: on Hackerrank
 - 💬 Would love to talk about **Technology**, **New ideas** and ofcourse my **Journey of Coding**.
