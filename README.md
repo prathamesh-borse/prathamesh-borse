@@ -38,11 +38,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](https://github.com/coderaky/first-pr/pull/13) in [coderaky/first-pr](https://github.com/coderaky/first-pr)
-2. 💪 Opened PR [#72](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies/pull/72) in [AWS-User-Group-Jaipur-Rajasthan/HallOfTechies](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies)
-3. ❗️ Opened issue [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
-4. ❗️ Opened issue [#42](https://github.com/DSCBITDurg/support/issues/42) in [DSCBITDurg/support](https://github.com/DSCBITDurg/support)
-5. ❗️ Opened issue [#5](https://github.com/CodeTrophs/450DSA/issues/5) in [CodeTrophs/450DSA](https://github.com/CodeTrophs/450DSA)
+1. 🗣 Commented on [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
+2. 💪 Opened PR [#13](https://github.com/coderaky/first-pr/pull/13) in [coderaky/first-pr](https://github.com/coderaky/first-pr)
+3. 💪 Opened PR [#72](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies/pull/72) in [AWS-User-Group-Jaipur-Rajasthan/HallOfTechies](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies)
+4. ❗️ Opened issue [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
+5. ❗️ Opened issue [#42](https://github.com/DSCBITDurg/support/issues/42) in [DSCBITDurg/support](https://github.com/DSCBITDurg/support)
 <!--END_SECTION:activity-->
 
 ---
