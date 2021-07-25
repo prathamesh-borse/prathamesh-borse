@@ -38,11 +38,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/Yamini-8750/github-project/issues/4) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
-2. 💪 Opened PR [#8](https://github.com/Yamini-8750/github-project/pull/8) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
-3. 💪 Opened PR [#1108](https://github.com/bajajvinamr/HacktoberFest2020/pull/1108) in [bajajvinamr/HacktoberFest2020](https://github.com/bajajvinamr/HacktoberFest2020)
-4. 🗣 Commented on [#4](https://github.com/Yamini-8750/github-project/issues/4) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
-5. 🗣 Commented on [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
+1. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+2. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
+3. ❗️ Opened issue [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Closed issue [#2091](https://github.com/EddieHubCommunity/support/issues/2091) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#2091](https://github.com/EddieHubCommunity/support/issues/2091) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
