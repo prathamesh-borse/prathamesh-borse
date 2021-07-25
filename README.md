@@ -38,11 +38,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1108](https://github.com/bajajvinamr/HacktoberFest2020/pull/1108) in [bajajvinamr/HacktoberFest2020](https://github.com/bajajvinamr/HacktoberFest2020)
-2. 🗣 Commented on [#4](https://github.com/Yamini-8750/github-project/issues/4) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
-3. 🗣 Commented on [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
-4. 💪 Opened PR [#13](https://github.com/coderaky/first-pr/pull/13) in [coderaky/first-pr](https://github.com/coderaky/first-pr)
-5. 💪 Opened PR [#72](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies/pull/72) in [AWS-User-Group-Jaipur-Rajasthan/HallOfTechies](https://github.com/AWS-User-Group-Jaipur-Rajasthan/HallOfTechies)
+1. 🗣 Commented on [#4](https://github.com/Yamini-8750/github-project/issues/4) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
+2. 💪 Opened PR [#8](https://github.com/Yamini-8750/github-project/pull/8) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
+3. 💪 Opened PR [#1108](https://github.com/bajajvinamr/HacktoberFest2020/pull/1108) in [bajajvinamr/HacktoberFest2020](https://github.com/bajajvinamr/HacktoberFest2020)
+4. 🗣 Commented on [#4](https://github.com/Yamini-8750/github-project/issues/4) in [Yamini-8750/github-project](https://github.com/Yamini-8750/github-project)
+5. 🗣 Commented on [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
 <!--END_SECTION:activity-->
 
 ---
