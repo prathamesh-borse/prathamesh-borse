@@ -1,9 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prathamesh!]()
 
 <a href="https://www.linkedin.com/in/prathamesh-borse/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Dev_Prathamtwt">
+<a href="https://instagram.com/dev_prathamig">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
+</a>
+<a href="https://twitter.com/Dev_prathamtwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:prathameshborse.official@gmail.com">
@@ -12,7 +15,6 @@
 <a href="https://prathameshborse.medium.com/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
 <br />
 
 ### About Me 🚀
@@ -38,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-2. 🗣 Commented on [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-4. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-5. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
+1. 🗣 Commented on [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+3. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+4. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. ❗️ Opened issue [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
@@ -50,6 +52,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=prathamesh-borse&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
+<p>&nbsp;<img align="center" alt="prathamesh-borse" src="https://github-readme-stats.vercel.app/api?username=prathamesh-borse&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" />
 
 </details>
