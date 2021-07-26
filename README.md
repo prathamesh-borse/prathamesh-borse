@@ -38,11 +38,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-3. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-4. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-5. ❗️ Opened issue [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+2. 🗣 Commented on [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+4. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
+5. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
 <!--END_SECTION:activity-->
 
 ---
