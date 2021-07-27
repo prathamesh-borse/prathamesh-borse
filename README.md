@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#197](https://github.com/publiclab/community-toolbox/issues/197) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
-2. 🗣 Commented on [#460](https://github.com/publiclab/community-toolbox/issues/460) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
-3. 🗣 Commented on [#9899](https://github.com/publiclab/plots2/issues/9899) in [publiclab/plots2](https://github.com/publiclab/plots2)
-4. 💪 Opened PR [#2](https://github.com/Samiksha99/Samiksha99/pull/2) in [Samiksha99/Samiksha99](https://github.com/Samiksha99/Samiksha99)
-5. ❗️ Opened issue [#1](https://github.com/Samiksha99/Samiksha99/issues/1) in [Samiksha99/Samiksha99](https://github.com/Samiksha99/Samiksha99)
+1. 🗣 Commented on [#896](https://github.com/Syknapse/Contribute-To-This-Project/issues/896) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+2. 🗣 Commented on [#65](https://github.com/TalksLab/metro-bootstrap/issues/65) in [TalksLab/metro-bootstrap](https://github.com/TalksLab/metro-bootstrap)
+3. 🗣 Commented on [#197](https://github.com/publiclab/community-toolbox/issues/197) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
+4. 🗣 Commented on [#460](https://github.com/publiclab/community-toolbox/issues/460) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
+5. 🗣 Commented on [#9899](https://github.com/publiclab/plots2/issues/9899) in [publiclab/plots2](https://github.com/publiclab/plots2)
 <!--END_SECTION:activity-->
 
 ---
