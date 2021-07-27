@@ -21,6 +21,10 @@
   <a href="https://prathameshborse.medium.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-Prathamesh%20Borse-black?logo=medium&logoColor=black&color=black" />
   </a>
+
+  <a href="https://instagram.com/dev_prathamig" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-dev_prathamig-pink?logo=instagram&logoColor=pink&color=pink" />
+  </a>
 </p>
 
 <br />
@@ -52,11 +56,11 @@ e
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-3. ❗️ Opened issue [#17](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar/issues/17) in [kaiwalyakoparkar/kaiwalyakoparkar](https://github.com/kaiwalyakoparkar/kaiwalyakoparkar)
-4. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-5. ❗️ Opened issue [#2092](https://github.com/EddieHubCommunity/support/issues/2092) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#197](https://github.com/publiclab/community-toolbox/issues/197) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
+2. 🗣 Commented on [#460](https://github.com/publiclab/community-toolbox/issues/460) in [publiclab/community-toolbox](https://github.com/publiclab/community-toolbox)
+3. 🗣 Commented on [#9899](https://github.com/publiclab/plots2/issues/9899) in [publiclab/plots2](https://github.com/publiclab/plots2)
+4. 💪 Opened PR [#2](https://github.com/Samiksha99/Samiksha99/pull/2) in [Samiksha99/Samiksha99](https://github.com/Samiksha99/Samiksha99)
+5. ❗️ Opened issue [#1](https://github.com/Samiksha99/Samiksha99/issues/1) in [Samiksha99/Samiksha99](https://github.com/Samiksha99/Samiksha99)
 <!--END_SECTION:activity-->
 
 ---
@@ -64,7 +68,6 @@ e
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p>&nbsp;<img align="left" alt="viraldevpb" src="https://github-readme-stats.vercel.app/api?username=prathamesh-borse&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" /></p>
+<p>&nbsp;<img align="center" alt="prathamesh-borse" src="https://github-readme-stats.vercel.app/api?username=prathamesh-borse&show_icons=true&title_color=ffffff&icon_color=03fc8c&text_color=daf7dc&bg_color=191919" />
 
 </details>
-
