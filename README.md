@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-2. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-3. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#904](https://github.com/Syknapse/Contribute-To-This-Project/issues/904) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
-5. 🗣 Commented on [#902](https://github.com/Syknapse/Contribute-To-This-Project/issues/902) in [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)
+1. 🗣 Commented on [#3](https://github.com/Suraj-1411/WhatsApp/issues/3) in [Suraj-1411/WhatsApp](https://github.com/Suraj-1411/WhatsApp)
+2. 🗣 Commented on [#200](https://github.com/C0D1NG/C0D1NG/issues/200) in [C0D1NG/C0D1NG](https://github.com/C0D1NG/C0D1NG)
+3. 🗣 Commented on [#6](https://github.com/HITK-TECH-Community/HITK_Tech_Community/issues/6) in [HITK-TECH-Community/HITK_Tech_Community](https://github.com/HITK-TECH-Community/HITK_Tech_Community)
+4. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
+5. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
 <!--END_SECTION:activity-->
 
 ---
