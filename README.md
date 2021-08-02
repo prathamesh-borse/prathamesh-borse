@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9899](https://github.com/publiclab/plots2/issues/9899) in [publiclab/plots2](https://github.com/publiclab/plots2)
-2. 🗣 Commented on [#39198](https://github.com/firstcontributions/first-contributions/issues/39198) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
-4. 🗣 Commented on [#77](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20/issues/77) in [NJACKWinterOfCode/Get-Started-NWoC20](https://github.com/NJACKWinterOfCode/Get-Started-NWoC20)
-5. 🗣 Commented on [#41286](https://github.com/firstcontributions/first-contributions/issues/41286) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🗣 Commented on [#11](https://github.com/Isha307/Good-First-Issue/issues/11) in [Isha307/Good-First-Issue](https://github.com/Isha307/Good-First-Issue)
+2. 🗣 Commented on [#1124](https://github.com/EddieHubCommunity/support/issues/1124) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#9899](https://github.com/publiclab/plots2/issues/9899) in [publiclab/plots2](https://github.com/publiclab/plots2)
+4. 🗣 Commented on [#39198](https://github.com/firstcontributions/first-contributions/issues/39198) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🗣 Commented on [#4](https://github.com/nhcommunity/community/issues/4) in [nhcommunity/community](https://github.com/nhcommunity/community)
 <!--END_SECTION:activity-->
 
 ---
