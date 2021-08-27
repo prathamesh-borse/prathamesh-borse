@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10102](https://github.com/publiclab/plots2/issues/10102) in [publiclab/plots2](https://github.com/publiclab/plots2)
-2. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-3. 🗣 Commented on [#10002](https://github.com/publiclab/plots2/issues/10002) in [publiclab/plots2](https://github.com/publiclab/plots2)
-4. 💪 Opened PR [#228](https://github.com/commclassroom/commclassroomOP/pull/228) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
-5. 🗣 Commented on [#321](https://github.com/pratik-choudhari/AlgoCode/issues/321) in [pratik-choudhari/AlgoCode](https://github.com/pratik-choudhari/AlgoCode)
+1. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
+2. 🗣 Commented on [#10102](https://github.com/publiclab/plots2/issues/10102) in [publiclab/plots2](https://github.com/publiclab/plots2)
+3. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
+4. 🗣 Commented on [#10002](https://github.com/publiclab/plots2/issues/10002) in [publiclab/plots2](https://github.com/publiclab/plots2)
+5. 💪 Opened PR [#228](https://github.com/commclassroom/commclassroomOP/pull/228) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
 <!--END_SECTION:activity-->
 
 ---
