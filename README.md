@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-2. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-3. 🗣 Commented on [#10102](https://github.com/publiclab/plots2/issues/10102) in [publiclab/plots2](https://github.com/publiclab/plots2)
-4. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-5. 🗣 Commented on [#10002](https://github.com/publiclab/plots2/issues/10002) in [publiclab/plots2](https://github.com/publiclab/plots2)
+1. 💪 Opened PR [#33](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/33) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+2. 💪 Opened PR [#1](https://github.com/prathamesh-borse/Hacktoberfest2021/pull/1) in [prathamesh-borse/Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest2021)
+3. 🗣 Commented on [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+4. ❌ Closed PR [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+5. 🗣 Commented on [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 ---
