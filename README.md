@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#33](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/33) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-2. 💪 Opened PR [#1](https://github.com/prathamesh-borse/Hacktoberfest2021/pull/1) in [prathamesh-borse/Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest2021)
-3. 🗣 Commented on [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-4. ❌ Closed PR [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-5. 🗣 Commented on [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+1. 💪 Opened PR [#34](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/34) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+2. 💪 Opened PR [#33](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/33) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+3. 💪 Opened PR [#1](https://github.com/prathamesh-borse/Hacktoberfest2021/pull/1) in [prathamesh-borse/Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest2021)
+4. 🗣 Commented on [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+5. ❌ Closed PR [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 ---
