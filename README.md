@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-2. 🗣 Commented on [#10102](https://github.com/publiclab/plots2/issues/10102) in [publiclab/plots2](https://github.com/publiclab/plots2)
-3. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-4. 🗣 Commented on [#10002](https://github.com/publiclab/plots2/issues/10002) in [publiclab/plots2](https://github.com/publiclab/plots2)
-5. 💪 Opened PR [#228](https://github.com/commclassroom/commclassroomOP/pull/228) in [commclassroom/commclassroomOP](https://github.com/commclassroom/commclassroomOP)
+1. 💪 Opened PR [#32](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/32) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
+2. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
+3. 🗣 Commented on [#10102](https://github.com/publiclab/plots2/issues/10102) in [publiclab/plots2](https://github.com/publiclab/plots2)
+4. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
+5. 🗣 Commented on [#10002](https://github.com/publiclab/plots2/issues/10002) in [publiclab/plots2](https://github.com/publiclab/plots2)
 <!--END_SECTION:activity-->
 
 ---
