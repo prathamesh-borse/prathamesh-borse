@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
-2. 🗣 Commented on [#29](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/29) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-3. 💪 Opened PR [#34](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/34) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-4. 💪 Opened PR [#33](https://github.com/vinitshahdeo/Hacktoberfest2021/pull/33) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
-5. 💪 Opened PR [#1](https://github.com/prathamesh-borse/Hacktoberfest2021/pull/1) in [prathamesh-borse/Hacktoberfest2021](https://github.com/prathamesh-borse/Hacktoberfest2021)
+1. ❗️ Closed issue [#2](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/2) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. ❗️ Opened issue [#2](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/2) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. ❗️ Opened issue [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🗣 Commented on [#10104](https://github.com/publiclab/plots2/issues/10104) in [publiclab/plots2](https://github.com/publiclab/plots2)
+5. 🗣 Commented on [#29](https://github.com/vinitshahdeo/Hacktoberfest2021/issues/29) in [vinitshahdeo/Hacktoberfest2021](https://github.com/vinitshahdeo/Hacktoberfest2021)
 <!--END_SECTION:activity-->
 
 ---
