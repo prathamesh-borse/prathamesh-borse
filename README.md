@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/5) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-2. 💪 Opened PR [#6](https://github.com/CodXCrypt/Whatsapp-API2/pull/6) in [CodXCrypt/Whatsapp-API2](https://github.com/CodXCrypt/Whatsapp-API2)
-3. ❗️ Opened issue [#4](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/4) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-4. ❗️ Closed issue [#3](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/3) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. ❗️ Opened issue [#3](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/3) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. ❗️ Opened issue [#49](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/issues/49) in [Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
+2. 🎉 Merged PR [#5](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/5) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 💪 Opened PR [#6](https://github.com/CodXCrypt/Whatsapp-API2/pull/6) in [CodXCrypt/Whatsapp-API2](https://github.com/CodXCrypt/Whatsapp-API2)
+4. ❗️ Opened issue [#4](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/4) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. ❗️ Closed issue [#3](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/3) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
