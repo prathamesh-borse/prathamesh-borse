@@ -41,10 +41,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#11](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/11) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
-2. 🗣 Commented on [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+2. 🗣 Commented on [#11](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/11) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
 3. 🗣 Commented on [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
-4. 💪 Opened PR [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/pull/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
-5. ❗️ Opened issue [#22](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/22) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+4. 🗣 Commented on [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+5. 💪 Opened PR [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/pull/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
 <!--END_SECTION:activity-->
 
 ---
