@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#6](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/6) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
-2. 💪 Opened PR [#50](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/pull/50) in [Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
-3. ❗️ Opened issue [#49](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/issues/49) in [Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
-4. 🎉 Merged PR [#5](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/5) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 💪 Opened PR [#6](https://github.com/CodXCrypt/Whatsapp-API2/pull/6) in [CodXCrypt/Whatsapp-API2](https://github.com/CodXCrypt/Whatsapp-API2)
+1. 💪 Opened PR [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/pull/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+2. ❗️ Opened issue [#22](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/22) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+3. 🗣 Commented on [#6](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/6) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+4. 🗣 Commented on [#6](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/6) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+5. 💪 Opened PR [#50](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/pull/50) in [Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
 <!--END_SECTION:activity-->
 
 ---
