@@ -40,10 +40,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/6) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-2. 🗣 Commented on [#11](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/11) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+1. 💪 Opened PR [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/pull/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
+2. 🎉 Merged PR [#6](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/6) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 3. 🗣 Commented on [#11](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/11) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
-4. 🗣 Commented on [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
+4. 🗣 Commented on [#11](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/11) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
 5. 🗣 Commented on [#23](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io/issues/23) in [Bauddhik-Geeks/Bauddhik-Geeks.github.io](https://github.com/Bauddhik-Geeks/Bauddhik-Geeks.github.io)
 <!--END_SECTION:activity-->
 
