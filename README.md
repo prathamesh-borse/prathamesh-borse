@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/Bauddhik-Geeks/Digital-Clock/pull/7) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
-2. 🗣 Commented on [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
-3. 🗣 Commented on [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
-4. 💪 Opened PR [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/pull/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
-5. 🎉 Merged PR [#6](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/6) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🗣 Commented on [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
+2. ❌ Closed PR [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/pull/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
+3. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. 🗣 Commented on [#1](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/1) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
 <!--END_SECTION:activity-->
 
 ---
