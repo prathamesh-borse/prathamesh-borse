@@ -42,7 +42,7 @@
 
 1. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 2. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-3. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 🎉 Merged PR [#7](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/7) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 4. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 5. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
