@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/10) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-2. 🎉 Merged PR [#12](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/12) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-3. 🎉 Merged PR [#16](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/16) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-4. 🎉 Merged PR [#9](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/9) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🗣 Commented on [#7](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/7) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
+1. 🎉 Merged PR [#11](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/11) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. 🎉 Merged PR [#10](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/10) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 🎉 Merged PR [#12](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/12) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🎉 Merged PR [#16](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/16) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. 🎉 Merged PR [#9](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/9) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
