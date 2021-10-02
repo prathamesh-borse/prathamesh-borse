@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#7](https://github.com/pyGuru123/Hacktoberfest-2021/pull/7) in [pyGuru123/Hacktoberfest-2021](https://github.com/pyGuru123/Hacktoberfest-2021)
-2. ❗️ Opened issue [#4](https://github.com/pyGuru123/Hacktoberfest-2021/issues/4) in [pyGuru123/Hacktoberfest-2021](https://github.com/pyGuru123/Hacktoberfest-2021)
-3. 🗣 Commented on [#7](https://github.com/Bauddhik-Geeks/Digital-Clock/issues/7) in [Bauddhik-Geeks/Digital-Clock](https://github.com/Bauddhik-Geeks/Digital-Clock)
-4. 🎉 Merged PR [#11](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/11) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🎉 Merged PR [#10](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/10) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🎉 Merged PR [#15](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/15) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. 🎉 Merged PR [#13](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/13) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 🗣 Commented on [#2](https://github.com/Bauddhik-Geeks/Simon-Game/issues/2) in [Bauddhik-Geeks/Simon-Game](https://github.com/Bauddhik-Geeks/Simon-Game)
+4. 🎉 Merged PR [#17](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/17) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. 🗣 Commented on [#2](https://github.com/Bauddhik-Geeks/Simon-Game/issues/2) in [Bauddhik-Geeks/Simon-Game](https://github.com/Bauddhik-Geeks/Simon-Game)
 <!--END_SECTION:activity-->
 
 ---
