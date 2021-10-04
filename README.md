@@ -40,10 +40,10 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6](https://github.com/Suraj-1411/WhatsApp/issues/6) in [Suraj-1411/WhatsApp](https://github.com/Suraj-1411/WhatsApp)
-2. ❗️ Opened issue [#1](https://github.com/p-adams/spiffy/issues/1) in [p-adams/spiffy](https://github.com/p-adams/spiffy)
-3. ❗️ Opened issue [#47](https://github.com/BrianLitwin/GoodFirstIssue/issues/47) in [BrianLitwin/GoodFirstIssue](https://github.com/BrianLitwin/GoodFirstIssue)
-4. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. ❗️ Opened issue [#6](https://github.com/Suraj-1411/WhatsApp/issues/6) in [Suraj-1411/WhatsApp](https://github.com/Suraj-1411/WhatsApp)
+3. ❗️ Opened issue [#1](https://github.com/p-adams/spiffy/issues/1) in [p-adams/spiffy](https://github.com/p-adams/spiffy)
+4. ❗️ Opened issue [#47](https://github.com/BrianLitwin/GoodFirstIssue/issues/47) in [BrianLitwin/GoodFirstIssue](https://github.com/BrianLitwin/GoodFirstIssue)
 5. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
