@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🗣 Commented on [#29901](https://github.com/kubernetes/website/issues/29901) in [kubernetes/website](https://github.com/kubernetes/website)
 2. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 3. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-4. ❗️ Reopened issue [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🎉 Merged PR [#49](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/49) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. ❗️ Reopened issue [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
