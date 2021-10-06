@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/1) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-2. ❗️ Opened issue [#140](https://github.com/kavyanshpandey/hacktoberfest-2021/issues/140) in [kavyanshpandey/hacktoberfest-2021](https://github.com/kavyanshpandey/hacktoberfest-2021)
-3. 💪 Opened PR [#139](https://github.com/kavyanshpandey/hacktoberfest-2021/pull/139) in [kavyanshpandey/hacktoberfest-2021](https://github.com/kavyanshpandey/hacktoberfest-2021)
-4. 🗣 Commented on [#22](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/22) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🎉 Merged PR [#35](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/35) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🎉 Merged PR [#51](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/51) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. 🎉 Merged PR [#53](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/53) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 🎉 Merged PR [#54](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/54) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🎉 Merged PR [#57](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/57) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. 🎉 Merged PR [#58](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/58) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
