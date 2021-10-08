@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#138](https://github.com/Astrogeek77/Hacktoberfest_2021/pull/138) in [Astrogeek77/Hacktoberfest_2021](https://github.com/Astrogeek77/Hacktoberfest_2021)
-2. 🗣 Commented on [#14](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze/issues/14) in [DSC-Banasthali-Vidyapith/Engineering-Daze](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze)
-3. 🗣 Commented on [#20](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze/issues/20) in [DSC-Banasthali-Vidyapith/Engineering-Daze](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze)
-4. 🗣 Commented on [#60](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/60) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🎉 Merged PR [#61](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/61) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+1. 🗣 Commented on [#188](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/188) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+2. 💪 Opened PR [#138](https://github.com/Astrogeek77/Hacktoberfest_2021/pull/138) in [Astrogeek77/Hacktoberfest_2021](https://github.com/Astrogeek77/Hacktoberfest_2021)
+3. 🗣 Commented on [#14](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze/issues/14) in [DSC-Banasthali-Vidyapith/Engineering-Daze](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze)
+4. 🗣 Commented on [#20](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze/issues/20) in [DSC-Banasthali-Vidyapith/Engineering-Daze](https://github.com/DSC-Banasthali-Vidyapith/Engineering-Daze)
+5. 🗣 Commented on [#60](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/60) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
