@@ -40,11 +40,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#77](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/77) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-2. 🎉 Merged PR [#70](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/70) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-3. 🗣 Commented on [#62](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/62) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-4. 🗣 Commented on [#52](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/52) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
-5. 🗣 Commented on [#188](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io/issues/188) in [EddieHubCommunity/EddieHubCommunity.github.io](https://github.com/EddieHubCommunity/EddieHubCommunity.github.io)
+1. 🗣 Commented on [#60](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/60) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+2. 🗣 Commented on [#77](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/77) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+3. 🗣 Commented on [#77](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/77) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+4. 🎉 Merged PR [#70](https://github.com/prathamesh-borse/Hacktoberfest_2021/pull/70) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
+5. 🗣 Commented on [#62](https://github.com/prathamesh-borse/Hacktoberfest_2021/issues/62) in [prathamesh-borse/Hacktoberfest_2021](https://github.com/prathamesh-borse/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 ---
