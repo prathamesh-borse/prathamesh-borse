@@ -1,9 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prathamesh!](https://prathamesh-borse.github.io/personal-site/)
 
-<a href="https://www.linkedin.com/in/prathamesh-borse/">
+<a href="https://www.linkedin.com/in/prathameshborse/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://instagram.com/dev_prathamig">
+<a href="https://instagram.com/prathamesh.borse">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 </a>
 <a href="https://twitter.com/Dev_prathamtwt">
