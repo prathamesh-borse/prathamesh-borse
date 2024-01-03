@@ -1,36 +1,33 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prathamesh!](https://prathamesh-borse.github.io/personal-site/)
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Prathamesh Borse</h1>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 
-<a href="https://www.linkedin.com/in/prathameshborse/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://instagram.com/prathamesh.borse">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
-</a>
-<a href="https://twitter.com/Dev_prathamtwt">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:prathameshborse.official@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://prathameshborse.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-borse&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-borse" /> </p>
 
-### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Information Technology. </br>
-👨‍💻  I am passionate about Web Dev, Android Development, Machine Learning & I enjoy learning new things. </br>
+- 🌱 I’m currently learning **Microservices, Talwind CSS, Securing API's**
+
+- 💬 Ask me about **Spring Boot, Rest Api's, Databases**
+
+- 📫 How to reach me **prathameshborse.official@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imprathamesh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imprathamesh01" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathameshborse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathameshborse" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15334459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15334459" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prathamesh-borse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh-borse" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h3 align="left">About Me 🚀</h3>
+
+- 🎓 I’m an Open-Source enthusiast & a **Software Engineer** in Persistent Systems.
+- 👨‍💻 I am passionate about Backend Development, Api Development, UI Development & I enjoy learning new things.
 
 ### Work 💻
-- 🌱 I’m currently working to get better at **Web Developement**.
-  - 5 :star: on Hackerrank
+- 🌱 I’m currently working to as **Software Engineer** in Persistent Systems.
 - 💬 Would love to talk about **Technology**, **New ideas** and ofcourse my **Journey of Coding**.
-
-### Volunteer experience
-- [Google Crowdsource Contributor]() - A Google Crowdsource Contributor are the individuals who work on various tasks in which you can contribute are translation, translation validation, maps translation validation, handwriting recognition, sentiment evaluation, landmarks, and image transcription. 
-
-### Honors & Awards 🏅
-- Completed Google Cloud Facilitator Program [Qwiklabs Public Profile](https://www.qwiklabs.com/public_profiles/e7000573-80c9-41e4-894a-33ece4b5128b) with 16 Quests and 11 Skill Badge.
 
 ---
 
