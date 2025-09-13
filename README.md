@@ -22,7 +22,7 @@
 
 <h3 align="left">About Me 🚀</h3>
 
-- 🎓 I’m an Open-Source enthusiast & a **Software Engineer** in Persistent Systems.
+- 🎓 I’m an Open-Source enthusiast & a **Associate Consultant** in Infosys.
 - 👨‍💻 I am passionate about Backend Development, Api Development, UI Development & I enjoy learning new things.
 
 ### Work 💻
